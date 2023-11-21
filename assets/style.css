@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 
 
 body {
@@ -15,6 +16,8 @@ body {
 
    .introParagraph {
     text-align: center;
+    font-size: 25px;
+    font-family: 'Russo One', sans-serif;
    }
 
    .rrButton {
