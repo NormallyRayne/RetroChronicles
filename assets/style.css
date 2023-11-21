@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Bungee+Shade&display=swap');
+
+
+body {
+    background-image: url("./design-space-paper-textured-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+   }
+
+   .welcomeHeader{
+    text-align: center;
+    font-family: 'Bungee Shade', sans-serif;
+   }
+
+   .introParagraph {
+    text-align: center;
+   }
+
+   .rrButton {
+    text-align: center;
+   }
+   
+
+   
+   
+   
+   
+   
+   
