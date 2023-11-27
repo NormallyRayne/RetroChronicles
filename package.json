@@ -1,0 +1,16 @@
+{
+  "name": "retrochronicles",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <img src=\"/images/Screenshot 2023-11-18 at 11.25.48 PM.png\"/> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "98.css": "^0.1.20",
+    "debug": "^4.3.4"
+  }
+}
